@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+📱 Mobile UI/UX Design Audit & Redesign
+Schools in Dehradun – Website Analysis
 
-## Project info
+📌 Project Overview
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This project presents a Mobile View (Vertical) UI/UX Design Audit and Redesign of the webpage: https://www.ecoleglobale.com/blog/schools-in-dehradun/. The goal of this project is to evaluate the current user experience and redesign key sections to improve clarity, navigation, and engagement for prospective parents and students searching for schools in Dehradun. The audit focuses on mobile usability since many users browse educational websites using smartphones.
 
-## How can I edit this code?
+🎯 Objectives
 
-There are several ways of editing your application.
+The main objectives of this project were to analyze the current mobile UI/UX experience, identify usability and navigation issues, improve content hierarchy and readability, redesign important sections like the hero section, key highlights, and call-to-action areas, add interactive UI components, and create a mobile-first design structure.
 
-**Use Lovable**
+🔍 UI/UX Audit Findings
+✅ What Works Well
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Informative content describing multiple schools
+Campus images improve credibility and visual appeal
+Ranking and reputation information builds trust
+Presence of enquiry CTA buttons
+SEO-friendly article structure
 
-Changes made via Lovable will be committed automatically to this repo.
+⚠️ Areas for Improvement
 
-**Use your preferred IDE**
+The page is text-heavy, making mobile scanning difficult
+No quick navigation or filtering system
+The hero section lacks a strong value proposition
+CTA buttons are not visually prominent
+School descriptions appear as long paragraphs instead of quick summaries
+Lack of interactive UI elements
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🎨 Proposed UI/UX Redesign
+1️⃣ Hero Section Redesign
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Improved mobile hero section including a full-width school campus image, a clear headline “Top Schools in Dehradun for Your Child”, a short supporting description, trust indicators such as parent reviews, top ranked schools and Dehradun education hub references, and strong call-to-action buttons including “Download School Guide” and “Enquire Now”.
 
-Follow these steps:
+2️⃣ Key Highlights Section
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+The long text content is converted into icon-based feature cards that highlight Academic Excellence, Sports & Extracurricular Activities, Safe Boarding Facilities, and Global Exposure. This approach improves visual engagement and allows parents to scan information quickly on mobile devices.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+3️⃣ School Listing Redesign
 
-# Step 3: Install the necessary dependencies.
-npm i
+Instead of long text blocks, schools are presented as interactive cards containing the school image, school name, location, short description, key feature icons, and action buttons like “View Details” and “Enquire Now”. This structure makes comparison easier for parents.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+4️⃣ CTA Optimization
 
-**Edit a file directly in GitHub**
+Call-to-action areas are improved by introducing a sticky bottom CTA bar with options such as Call Admission, Enquire Now, and Download Guide. A mid-page enquiry form is also included to capture leads, asking for the parent’s name, phone number, and the child’s grade.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+⚡ Added Interactive Features
 
-**Use GitHub Codespaces**
+To improve engagement, interactive features are introduced including horizontal filter chips for categories like Boarding Schools, Girls Schools, CBSE Schools, and International Schools. School cards can expand for additional information, testimonials can be viewed through swipeable carousels, and a quick school comparison option helps parents evaluate multiple schools easily.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📱 Mobile Wireframe Structure
 
-## What technologies are used for this project?
+The recommended mobile layout structure follows this order: Hero Section → Quick Filters → Top Schools Cards → Key Highlights → School Listings → Testimonials → Admission CTA Section → Footer. This structure improves navigation flow and makes the content easier to explore on mobile devices.
 
-This project is built with:
+📄 Project Output
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+The final output of this project includes a mobile UI/UX audit report, UI improvement recommendations, a redesigned mobile layout concept, and the final design mockup exported as a PDF.
 
-## How can I deploy this project?
+🛠 Tools Used
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+This project was created using UI/UX analysis methods, mobile-first design principles, wireframing techniques, and design prototyping tools.
 
-## Can I connect a custom domain to my Lovable project?
+🚀 Future Improvements
 
-Yes, you can!
+Future enhancements may include an AI-based school recommendation system, integration of parent reviews, a fee comparison tool, and virtual campus tour features to further improve the decision-making experience for parents.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+👨‍💻 Author
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+This project was created as part of a UI/UX design analysis assignment focused on improving mobile usability for educational websites.
