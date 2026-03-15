@@ -1,6 +1,8 @@
 📱 Mobile UI/UX Design Audit & Redesign
 Schools in Dehradun – Website Analysis
 
+Here are the results: https://schools-in-dehradun.lovable.app/
+
 📌 Project Overview
 
 This project presents a Mobile View (Vertical) UI/UX Design Audit and Redesign of the webpage: https://www.ecoleglobale.com/blog/schools-in-dehradun/. The goal of this project is to evaluate the current user experience and redesign key sections to improve clarity, navigation, and engagement for prospective parents and students searching for schools in Dehradun. The audit focuses on mobile usability since many users browse educational websites using smartphones.
